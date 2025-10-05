@@ -138,9 +138,9 @@ const AnimatedBackground = () => {
     // --- MODIFIED: More specific and personal keywords & symbols ---
     const codeChars = "{}[]()<>/\\|->\"\"\"";
     const dataWords = [
-      "RAG", "SAS", "AutoGen", "LangChain", "Agents", "EMNLP", "PyTorch", 
-      "LoRA", "Fine-tuning", "Hugging Face", "Generative", "Adversarial", 
-      "Vectors", "Finance", "Synthesis", "PEFT", "Risk"
+      "RAG", "SAS", "AutoGen", "LangChain", "Agents", "ModernBERT", "PyTorch", 
+      "LoRA", "Fine-tuning", "Hugging Face", "Generative", "Adversarial Systems", 
+      "NeoBERT", "FinNLP", "Synthesis", "PEFT", "Risk"
     ];
     const symbols = "αβΣΩ∂∇→⊕⊗∀∃🧠";
     // --- END OF MODIFICATIONS ---
