@@ -18,7 +18,7 @@ const Hero = () => {
               <div className="relative group">
                 <div className="absolute inset-0 bg-primary/5 rounded-lg transform rotate-3 transition-transform group-hover:rotate-6"></div>
                 <img 
-                  src="/placeholder.svg" 
+                  src="/mypic.jpeg" 
                   alt="Saisab Sadhu - AI Researcher"
                   className="relative w-[180px] h-[180px] md:w-[200px] md:h-[200px] object-cover rounded-lg shadow-lg border-2 border-border transition-transform group-hover:scale-[1.02]"
                 />
