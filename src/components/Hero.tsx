@@ -38,7 +38,7 @@ const Hero = () => {
               
               {/* Sub-headline */}
               <p className="text-xl md:text-2xl text-foreground/80 mb-2 font-light">
-                MS in Data Science & Engineering
+                BS-MS in Data Science & Engineering
               </p>
               <p className="text-lg text-muted-foreground mb-8">
                 Indian Institute of Science Education and Research, Bhopal
