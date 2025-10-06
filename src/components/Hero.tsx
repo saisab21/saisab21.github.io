@@ -52,13 +52,13 @@ const Hero = () => {
           {/* Key achievements */}
           <div className="grid md:grid-cols-2 gap-6 mb-12">
             <div className="bg-card border border-border rounded-lg p-6 hover:shadow-lg hover:shadow-primary/5 transition-all duration-300 hover:-translate-y-1 cursor-pointer">
-              <div className="text-xs font-semibold text-primary uppercase tracking-wider mb-2">Publication</div>
+              <div className="text-xs font-semibold text-primary uppercase tracking-wider mb-2">Recent Publications</div>
               <div className="text-lg text-foreground font-semibold mb-1">EMNLP Workshop 2025</div>
               <div className="text-sm text-muted-foreground leading-relaxed">Structured Adversarial Synthesis for Financial Analysis</div>
             </div>
             <div className="bg-card border border-border rounded-lg p-6 hover:shadow-lg hover:shadow-primary/5 transition-all duration-300 hover:-translate-y-1 cursor-pointer">
-              <div className="text-xs font-semibold text-primary uppercase tracking-wider mb-2">Achievement</div>
-              <div className="text-lg text-foreground font-semibold mb-1">#1 Rank - FinNLP Shared Task</div>
+              <div className="text-xs font-semibold text-primary uppercase tracking-wider mb-2">Recent Achievements</div>
+              <div className="text-lg text-foreground font-semibold mb-1">#5 Rank - FinNLP Shared Task</div>
               <div className="text-sm text-muted-foreground leading-relaxed">Win Rate vs Analyst Report Metric</div>
             </div>
           </div>
