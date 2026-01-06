@@ -43,7 +43,7 @@ const Hero = () => {
               <div className="relative group">
                 <div className="absolute inset-0 bg-primary/5 rounded-lg transform rotate-3 transition-transform group-hover:rotate-6"></div>
                 <img 
-                  src="/placeholder.svg" 
+                  src="/mypic.jpeg" 
                   alt="Saisab Sadhu - AI Researcher"
                   className="relative w-[180px] h-[180px] md:w-[200px] md:h-[200px] object-cover rounded-lg shadow-lg border-2 border-border transition-transform group-hover:scale-[1.02]"
                 />
@@ -82,7 +82,7 @@ const Hero = () => {
               <div className="text-sm text-muted-foreground leading-relaxed">DARE: Dialectical Alignment for Retrieval-Enhanced LLMs</div>
             </div>
             <div className="bg-card border border-border rounded-lg p-6 hover:shadow-lg hover:shadow-primary/5 transition-all duration-300 hover:-translate-y-1 cursor-pointer overflow-hidden">
-              <div className="text-xs font-semibold text-primary uppercase tracking-wider mb-2">Achievement</div>
+              <div className="text-xs font-semibold text-primary uppercase tracking-wider mb-2">Recent Achievements</div>
               <div className="relative h-[52px]">
                 {achievements.map((achievement, index) => (
                   <div
